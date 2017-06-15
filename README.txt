@@ -9,15 +9,15 @@ and compiled for Ubuntu Linux environment.
 
 Abstract:
 Create an object oriented program that will create a scheduling service
-for a public transit streetcar system. This program should allow allow
-for a controller to see where all the cars are located, add cars to
+for a public transit streetcar system. This program should allow 
+for a controller (or manager) to see where all the cars are located, add cars to
 a track, and remove a car from service.
 
 Data Structures:
 A graph is used to handle the collection of tracks and the list of stops
-as an adjacency list. Tracks that are loops should be implemented as a
-circular linked list, and two way tracks as doubly linked lists. Data for
-the program should come from an external text file.
+as an adjacency list. Tracks that are loops are implemented as a
+circular linked list, and two way tracks are doubly linked lists. Data for
+the program comes from an external text file.
 
 
 Using the Program:

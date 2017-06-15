@@ -1,0 +1,67 @@
+* Example file format:
+*>	<------This is needed before the line name
+*line name
+*name of stop:stop ID
+*<	<------This is needed after the last stop
+
+
+>
+Blue Line
+The Airport:101
+Used Car Emporium:102
+The Race Tracks:103
+The Casino:104
+The Farms:105
+The Downtown Outskirts:106
+The Community College:107
+The Volvo Dealership:108
+The Factories:109
+The Docks:110
+The Downtown Hospital:111
+The Museum:112
+The Underpass:113
+The Waterfront:114
+The Waterfront North:115
+The Downtown Mall:116
+The Downtown Mall West:117
+The City Center:118
+The Courthouse:119
+The Concert Hall:120
+The Stadium:121
+The BMW Dealership:122
+The Zoo:123
+The Outer Burbs:124
+The Burbs Hospital:125
+The Burbs Junction:126
+Downtown Burbs:127
+The Burbs Park:128
+The Burbs Edge:129
+<
+
+>
+Orange Line
+Industrial North:230
+Greyhound Station:231
+The Hills:232
+Trend Valley:233
+Downtown North:234
+Hospital North:235
+Near Ikea:236
+City West:237
+Theater West:238
+Fred Meyer's:239
+Southwest Station:240
+South Hospital:241
+Airport South:242
+Where Land Gets Cheap:243
+The Golf Courses:244
+Theater South:245
+The South Mall:246
+Mastodon Valley:247
+Emperor East:248
+Hospital East:249
+Downtown East:250
+Imperial:251
+Northeast Station:252
+Alexander's Edge:253
+<

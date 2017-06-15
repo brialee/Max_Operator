@@ -1,0 +1,1064 @@
+
+
+Stops added to Orange Line: 24
+Stops added to Blue Line: 29
+24 From orange line
+29 From Blue line
+11 Cars added from file
+78
+1
+Current Stop
+--------------------
+Stop Name: Greyhound Station
+Stop ID: 231
+In Service: 0
+Track1: 0 --- Track2: 0
+---------------
+
+Connection
+--------------------
+Stop Name: Industrial North
+Stop ID: 230
+In Service: 0
+Track1: 0 --- Track2: 0
+---------------
+1
+Current Stop
+--------------------
+Stop Name: The Hills
+Stop ID: 232
+In Service: 0
+Track1: 0 --- Track2: 0
+---------------
+
+Connection
+--------------------
+Stop Name: Greyhound Station
+Stop ID: 231
+In Service: 0
+Track1: 0 --- Track2: 0
+---------------
+1
+Current Stop
+--------------------
+Stop Name: Trend Valley
+Stop ID: 233
+In Service: 0
+Track1: 0 --- Track2: 0
+---------------
+
+Connection
+--------------------
+Stop Name: The Hills
+Stop ID: 232
+In Service: 0
+Track1: 0 --- Track2: 0
+---------------
+1
+Current Stop
+--------------------
+Stop Name: Downtown North
+Stop ID: 234
+In Service: 0
+Track1: 0 --- Track2: 0
+---------------
+
+Connection
+--------------------
+Stop Name: Trend Valley
+Stop ID: 233
+In Service: 0
+Track1: 0 --- Track2: 0
+---------------
+1
+Current Stop
+--------------------
+Stop Name: Hospital North
+Stop ID: 235
+In Service: 0
+Track1: 0 --- Track2: 0
+---------------
+
+Connection
+--------------------
+Stop Name: Downtown North
+Stop ID: 234
+In Service: 0
+Track1: 0 --- Track2: 0
+---------------
+1
+Current Stop
+--------------------
+Stop Name: Near Ikea
+Stop ID: 236
+In Service: 0
+Track1: 0 --- Track2: 0
+---------------
+
+Connection
+--------------------
+Stop Name: Hospital North
+Stop ID: 235
+In Service: 0
+Track1: 0 --- Track2: 0
+---------------
+1
+Current Stop
+--------------------
+Stop Name: City West
+Stop ID: 237
+In Service: 0
+Track1: 0 --- Track2: 0
+---------------
+
+Connection
+--------------------
+Stop Name: Near Ikea
+Stop ID: 236
+In Service: 0
+Track1: 0 --- Track2: 0
+---------------
+1
+Current Stop
+--------------------
+Stop Name: Theater West
+Stop ID: 238
+In Service: 0
+Track1: 0 --- Track2: 0
+---------------
+
+Connection
+--------------------
+Stop Name: City West
+Stop ID: 237
+In Service: 0
+Track1: 0 --- Track2: 0
+---------------
+1
+Current Stop
+--------------------
+Stop Name: Fred Meyer's
+Stop ID: 239
+In Service: 0
+Track1: 0 --- Track2: 0
+---------------
+
+Connection
+--------------------
+Stop Name: Theater West
+Stop ID: 238
+In Service: 0
+Track1: 0 --- Track2: 0
+---------------
+1
+Current Stop
+--------------------
+Stop Name: Southwest Station
+Stop ID: 240
+In Service: 0
+Track1: 0 --- Track2: 0
+---------------
+
+Connection
+--------------------
+Stop Name: Fred Meyer's
+Stop ID: 239
+In Service: 0
+Track1: 0 --- Track2: 0
+---------------
+1
+Current Stop
+--------------------
+Stop Name: South Hospital
+Stop ID: 241
+In Service: 0
+Track1: 0 --- Track2: 0
+---------------
+
+Connection
+--------------------
+Stop Name: Southwest Station
+Stop ID: 240
+In Service: 0
+Track1: 0 --- Track2: 0
+---------------
+1
+Current Stop
+--------------------
+Stop Name: Airport South
+Stop ID: 242
+In Service: 0
+Track1: 0 --- Track2: 0
+---------------
+
+Connection
+--------------------
+Stop Name: South Hospital
+Stop ID: 241
+In Service: 0
+Track1: 0 --- Track2: 0
+---------------
+1
+Current Stop
+--------------------
+Stop Name: Where Land Gets Cheap
+Stop ID: 243
+In Service: 0
+Track1: 0 --- Track2: 0
+---------------
+
+Connection
+--------------------
+Stop Name: Airport South
+Stop ID: 242
+In Service: 0
+Track1: 0 --- Track2: 0
+---------------
+1
+Current Stop
+--------------------
+Stop Name: The Golf Courses
+Stop ID: 244
+In Service: 0
+Track1: 0 --- Track2: 0
+---------------
+
+Connection
+--------------------
+Stop Name: Where Land Gets Cheap
+Stop ID: 243
+In Service: 0
+Track1: 0 --- Track2: 0
+---------------
+1
+Current Stop
+--------------------
+Stop Name: Theater South
+Stop ID: 245
+In Service: 0
+Track1: 0 --- Track2: 0
+---------------
+
+Connection
+--------------------
+Stop Name: The Golf Courses
+Stop ID: 244
+In Service: 0
+Track1: 0 --- Track2: 0
+---------------
+1
+Current Stop
+--------------------
+Stop Name: The South Mall
+Stop ID: 246
+In Service: 0
+Track1: 0 --- Track2: 0
+---------------
+
+Connection
+--------------------
+Stop Name: Theater South
+Stop ID: 245
+In Service: 0
+Track1: 0 --- Track2: 0
+---------------
+1
+Current Stop
+--------------------
+Stop Name: Mastodon Valley
+Stop ID: 247
+In Service: 0
+Track1: 0 --- Track2: 0
+---------------
+
+Connection
+--------------------
+Stop Name: The South Mall
+Stop ID: 246
+In Service: 0
+Track1: 0 --- Track2: 0
+---------------
+1
+Current Stop
+--------------------
+Stop Name: Emperor East
+Stop ID: 248
+In Service: 0
+Track1: 0 --- Track2: 0
+---------------
+
+Connection
+--------------------
+Stop Name: Mastodon Valley
+Stop ID: 247
+In Service: 0
+Track1: 0 --- Track2: 0
+---------------
+1
+Current Stop
+--------------------
+Stop Name: Hospital East
+Stop ID: 249
+In Service: 0
+Track1: 0 --- Track2: 0
+---------------
+
+Connection
+--------------------
+Stop Name: Emperor East
+Stop ID: 248
+In Service: 0
+Track1: 0 --- Track2: 0
+---------------
+1
+Current Stop
+--------------------
+Stop Name: Downtown East
+Stop ID: 250
+In Service: 0
+Track1: 0 --- Track2: 0
+---------------
+
+Connection
+--------------------
+Stop Name: Hospital East
+Stop ID: 249
+In Service: 0
+Track1: 0 --- Track2: 0
+---------------
+1
+Current Stop
+--------------------
+Stop Name: Imperial
+Stop ID: 251
+In Service: 0
+Track1: 0 --- Track2: 0
+---------------
+
+Connection
+--------------------
+Stop Name: Downtown East
+Stop ID: 250
+In Service: 0
+Track1: 0 --- Track2: 0
+---------------
+1
+Current Stop
+--------------------
+Stop Name: Northeast Station
+Stop ID: 252
+In Service: 0
+Track1: 0 --- Track2: 0
+---------------
+
+Connection
+--------------------
+Stop Name: Imperial
+Stop ID: 251
+In Service: 0
+Track1: 0 --- Track2: 0
+---------------
+1
+Current Stop
+--------------------
+Stop Name: Alexander's Edge
+Stop ID: 253
+In Service: 0
+Track1: 0 --- Track2: 0
+---------------
+
+Connection
+--------------------
+Stop Name: Northeast Station
+Stop ID: 252
+In Service: 0
+Track1: 0 --- Track2: 0
+---------------
+1
+Current Stop
+--------------------
+Stop Name: Industrial North
+Stop ID: 230
+In Service: 0
+Track1: 0 --- Track2: 0
+---------------
+
+Connection
+--------------------
+Stop Name: Alexander's Edge
+Stop ID: 253
+In Service: 0
+Track1: 0 --- Track2: 0
+---------------
+1
+Current Stop
+--------------------
+Stop Name: The Burbs Edge
+Stop ID: 129
+In Service: 0
+Track1: 0 --- Track2: 0
+---------------
+
+Connection
+--------------------
+Stop Name: The Burbs Park
+Stop ID: 128
+In Service: 0
+Track1: 0 --- Track2: 0
+---------------
+1
+Current Stop
+--------------------
+Stop Name: The Burbs Park
+Stop ID: 128
+In Service: 0
+Track1: 0 --- Track2: 0
+---------------
+
+Connection
+--------------------
+Stop Name: The Burbs Edge
+Stop ID: 129
+In Service: 0
+Track1: 0 --- Track2: 0
+---------------
+
+Connection
+--------------------
+Stop Name: Downtown Burbs
+Stop ID: 127
+In Service: 0
+Track1: 0 --- Track2: 0
+---------------
+2
+Current Stop
+--------------------
+Stop Name: Downtown Burbs
+Stop ID: 127
+In Service: 0
+Track1: 0 --- Track2: 0
+---------------
+
+Connection
+--------------------
+Stop Name: The Burbs Park
+Stop ID: 128
+In Service: 0
+Track1: 0 --- Track2: 0
+---------------
+
+Connection
+--------------------
+Stop Name: The Burbs Junction
+Stop ID: 126
+In Service: 0
+Track1: 0 --- Track2: 0
+---------------
+2
+Current Stop
+--------------------
+Stop Name: The Burbs Junction
+Stop ID: 126
+In Service: 0
+Track1: 0 --- Track2: 0
+---------------
+
+Connection
+--------------------
+Stop Name: Downtown Burbs
+Stop ID: 127
+In Service: 0
+Track1: 0 --- Track2: 0
+---------------
+
+Connection
+--------------------
+Stop Name: The Burbs Hospital
+Stop ID: 125
+In Service: 0
+Track1: 0 --- Track2: 0
+---------------
+2
+Current Stop
+--------------------
+Stop Name: The Burbs Hospital
+Stop ID: 125
+In Service: 0
+Track1: 0 --- Track2: 0
+---------------
+
+Connection
+--------------------
+Stop Name: The Burbs Junction
+Stop ID: 126
+In Service: 0
+Track1: 0 --- Track2: 0
+---------------
+
+Connection
+--------------------
+Stop Name: The Outer Burbs
+Stop ID: 124
+In Service: 0
+Track1: 0 --- Track2: 0
+---------------
+2
+Current Stop
+--------------------
+Stop Name: The Outer Burbs
+Stop ID: 124
+In Service: 0
+Track1: 0 --- Track2: 0
+---------------
+
+Connection
+--------------------
+Stop Name: The Burbs Hospital
+Stop ID: 125
+In Service: 0
+Track1: 0 --- Track2: 0
+---------------
+
+Connection
+--------------------
+Stop Name: The Zoo
+Stop ID: 123
+In Service: 0
+Track1: 0 --- Track2: 0
+---------------
+2
+Current Stop
+--------------------
+Stop Name: The Zoo
+Stop ID: 123
+In Service: 0
+Track1: 0 --- Track2: 0
+---------------
+
+Connection
+--------------------
+Stop Name: The Outer Burbs
+Stop ID: 124
+In Service: 0
+Track1: 0 --- Track2: 0
+---------------
+
+Connection
+--------------------
+Stop Name: The BMW Dealership
+Stop ID: 122
+In Service: 0
+Track1: 0 --- Track2: 0
+---------------
+2
+Current Stop
+--------------------
+Stop Name: The BMW Dealership
+Stop ID: 122
+In Service: 0
+Track1: 0 --- Track2: 0
+---------------
+
+Connection
+--------------------
+Stop Name: The Zoo
+Stop ID: 123
+In Service: 0
+Track1: 0 --- Track2: 0
+---------------
+
+Connection
+--------------------
+Stop Name: The Stadium
+Stop ID: 121
+In Service: 0
+Track1: 0 --- Track2: 0
+---------------
+2
+Current Stop
+--------------------
+Stop Name: The Stadium
+Stop ID: 121
+In Service: 0
+Track1: 0 --- Track2: 0
+---------------
+
+Connection
+--------------------
+Stop Name: The BMW Dealership
+Stop ID: 122
+In Service: 0
+Track1: 0 --- Track2: 0
+---------------
+
+Connection
+--------------------
+Stop Name: The Concert Hall
+Stop ID: 120
+In Service: 0
+Track1: 0 --- Track2: 0
+---------------
+2
+Current Stop
+--------------------
+Stop Name: The Concert Hall
+Stop ID: 120
+In Service: 0
+Track1: 0 --- Track2: 0
+---------------
+
+Connection
+--------------------
+Stop Name: The Stadium
+Stop ID: 121
+In Service: 0
+Track1: 0 --- Track2: 0
+---------------
+
+Connection
+--------------------
+Stop Name: The Courthouse
+Stop ID: 119
+In Service: 0
+Track1: 0 --- Track2: 0
+---------------
+2
+Current Stop
+--------------------
+Stop Name: The Courthouse
+Stop ID: 119
+In Service: 0
+Track1: 0 --- Track2: 0
+---------------
+
+Connection
+--------------------
+Stop Name: The Concert Hall
+Stop ID: 120
+In Service: 0
+Track1: 0 --- Track2: 0
+---------------
+
+Connection
+--------------------
+Stop Name: The City Center
+Stop ID: 118
+In Service: 0
+Track1: 0 --- Track2: 0
+---------------
+2
+Current Stop
+--------------------
+Stop Name: The City Center
+Stop ID: 118
+In Service: 0
+Track1: 0 --- Track2: 0
+---------------
+
+Connection
+--------------------
+Stop Name: The Courthouse
+Stop ID: 119
+In Service: 0
+Track1: 0 --- Track2: 0
+---------------
+
+Connection
+--------------------
+Stop Name: The Downtown Mall West
+Stop ID: 117
+In Service: 0
+Track1: 0 --- Track2: 0
+---------------
+2
+Current Stop
+--------------------
+Stop Name: The Downtown Mall West
+Stop ID: 117
+In Service: 0
+Track1: 0 --- Track2: 0
+---------------
+
+Connection
+--------------------
+Stop Name: The City Center
+Stop ID: 118
+In Service: 0
+Track1: 0 --- Track2: 0
+---------------
+1
+Current Stop
+--------------------
+Stop Name: The Downtown Mall
+Stop ID: 116
+In Service: 0
+Track1: 0 --- Track2: 0
+---------------
+
+Connection
+--------------------
+Stop Name: The Downtown Mall West
+Stop ID: 117
+In Service: 0
+Track1: 0 --- Track2: 0
+---------------
+1
+Current Stop
+--------------------
+Stop Name: The Waterfront North
+Stop ID: 115
+In Service: 0
+Track1: 0 --- Track2: 0
+---------------
+
+Connection
+--------------------
+Stop Name: The Downtown Mall
+Stop ID: 116
+In Service: 0
+Track1: 0 --- Track2: 0
+---------------
+
+Connection
+--------------------
+Stop Name: The Waterfront
+Stop ID: 114
+In Service: 0
+Track1: 0 --- Track2: 0
+---------------
+2
+Current Stop
+--------------------
+Stop Name: The Waterfront
+Stop ID: 114
+In Service: 0
+Track1: 0 --- Track2: 0
+---------------
+
+Connection
+--------------------
+Stop Name: The Waterfront North
+Stop ID: 115
+In Service: 0
+Track1: 0 --- Track2: 0
+---------------
+
+Connection
+--------------------
+Stop Name: The Underpass
+Stop ID: 113
+In Service: 0
+Track1: 0 --- Track2: 0
+---------------
+2
+Current Stop
+--------------------
+Stop Name: The Underpass
+Stop ID: 113
+In Service: 0
+Track1: 0 --- Track2: 0
+---------------
+
+Connection
+--------------------
+Stop Name: The Waterfront
+Stop ID: 114
+In Service: 0
+Track1: 0 --- Track2: 0
+---------------
+
+Connection
+--------------------
+Stop Name: The Museum
+Stop ID: 112
+In Service: 0
+Track1: 0 --- Track2: 0
+---------------
+2
+Current Stop
+--------------------
+Stop Name: The Museum
+Stop ID: 112
+In Service: 0
+Track1: 0 --- Track2: 0
+---------------
+
+Connection
+--------------------
+Stop Name: The Underpass
+Stop ID: 113
+In Service: 0
+Track1: 0 --- Track2: 0
+---------------
+
+Connection
+--------------------
+Stop Name: The Downtown Hospital
+Stop ID: 111
+In Service: 0
+Track1: 0 --- Track2: 0
+---------------
+2
+Current Stop
+--------------------
+Stop Name: The Downtown Hospital
+Stop ID: 111
+In Service: 0
+Track1: 0 --- Track2: 0
+---------------
+
+Connection
+--------------------
+Stop Name: The Museum
+Stop ID: 112
+In Service: 0
+Track1: 0 --- Track2: 0
+---------------
+
+Connection
+--------------------
+Stop Name: The Docks
+Stop ID: 110
+In Service: 0
+Track1: 0 --- Track2: 0
+---------------
+2
+Current Stop
+--------------------
+Stop Name: The Docks
+Stop ID: 110
+In Service: 0
+Track1: 0 --- Track2: 0
+---------------
+
+Connection
+--------------------
+Stop Name: The Downtown Hospital
+Stop ID: 111
+In Service: 0
+Track1: 0 --- Track2: 0
+---------------
+
+Connection
+--------------------
+Stop Name: The Factories
+Stop ID: 109
+In Service: 0
+Track1: 0 --- Track2: 0
+---------------
+2
+Current Stop
+--------------------
+Stop Name: The Factories
+Stop ID: 109
+In Service: 0
+Track1: 0 --- Track2: 0
+---------------
+
+Connection
+--------------------
+Stop Name: The Docks
+Stop ID: 110
+In Service: 0
+Track1: 0 --- Track2: 0
+---------------
+
+Connection
+--------------------
+Stop Name: The Volvo Dealership
+Stop ID: 108
+In Service: 0
+Track1: 0 --- Track2: 0
+---------------
+2
+Current Stop
+--------------------
+Stop Name: The Volvo Dealership
+Stop ID: 108
+In Service: 0
+Track1: 0 --- Track2: 0
+---------------
+
+Connection
+--------------------
+Stop Name: The Factories
+Stop ID: 109
+In Service: 0
+Track1: 0 --- Track2: 0
+---------------
+
+Connection
+--------------------
+Stop Name: The Community College
+Stop ID: 107
+In Service: 0
+Track1: 0 --- Track2: 0
+---------------
+2
+Current Stop
+--------------------
+Stop Name: The Community College
+Stop ID: 107
+In Service: 0
+Track1: 0 --- Track2: 0
+---------------
+
+Connection
+--------------------
+Stop Name: The Volvo Dealership
+Stop ID: 108
+In Service: 0
+Track1: 0 --- Track2: 0
+---------------
+
+Connection
+--------------------
+Stop Name: The Downtown Outskirts
+Stop ID: 106
+In Service: 0
+Track1: 0 --- Track2: 0
+---------------
+2
+Current Stop
+--------------------
+Stop Name: The Downtown Outskirts
+Stop ID: 106
+In Service: 0
+Track1: 0 --- Track2: 0
+---------------
+
+Connection
+--------------------
+Stop Name: The Community College
+Stop ID: 107
+In Service: 0
+Track1: 0 --- Track2: 0
+---------------
+
+Connection
+--------------------
+Stop Name: The Farms
+Stop ID: 105
+In Service: 0
+Track1: 0 --- Track2: 0
+---------------
+2
+Current Stop
+--------------------
+Stop Name: The Farms
+Stop ID: 105
+In Service: 0
+Track1: 0 --- Track2: 0
+---------------
+
+Connection
+--------------------
+Stop Name: The Downtown Outskirts
+Stop ID: 106
+In Service: 0
+Track1: 0 --- Track2: 0
+---------------
+
+Connection
+--------------------
+Stop Name: The Casino
+Stop ID: 104
+In Service: 0
+Track1: 0 --- Track2: 0
+---------------
+2
+Current Stop
+--------------------
+Stop Name: The Casino
+Stop ID: 104
+In Service: 0
+Track1: 0 --- Track2: 0
+---------------
+
+Connection
+--------------------
+Stop Name: The Farms
+Stop ID: 105
+In Service: 0
+Track1: 0 --- Track2: 0
+---------------
+
+Connection
+--------------------
+Stop Name: The Race Tracks
+Stop ID: 103
+In Service: 0
+Track1: 0 --- Track2: 0
+---------------
+2
+Current Stop
+--------------------
+Stop Name: The Race Tracks
+Stop ID: 103
+In Service: 0
+Track1: 0 --- Track2: 0
+---------------
+
+Connection
+--------------------
+Stop Name: The Casino
+Stop ID: 104
+In Service: 0
+Track1: 0 --- Track2: 0
+---------------
+
+Connection
+--------------------
+Stop Name: Used Car Emporium
+Stop ID: 102
+In Service: 0
+Track1: 0 --- Track2: 0
+---------------
+2
+Current Stop
+--------------------
+Stop Name: Used Car Emporium
+Stop ID: 102
+In Service: 0
+Track1: 0 --- Track2: 0
+---------------
+
+Connection
+--------------------
+Stop Name: The Race Tracks
+Stop ID: 103
+In Service: 0
+Track1: 0 --- Track2: 0
+---------------
+
+Connection
+--------------------
+Stop Name: The Airport
+Stop ID: 101
+In Service: 0
+Track1: 0 --- Track2: 0
+---------------
+2
+Current Stop
+--------------------
+Stop Name: The Airport
+Stop ID: 101
+In Service: 0
+Track1: 0 --- Track2: 0
+---------------
+
+Connection
+--------------------
+Stop Name: Used Car Emporium
+Stop ID: 102
+In Service: 0
+Track1: 0 --- Track2: 0
+---------------
+1
+
+
+
+End of program
+Line Destructor
+Line Destructor
+Graph Destructor

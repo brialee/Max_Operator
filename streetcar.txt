@@ -1,0 +1,16 @@
+* Text file that contains streetcar data.
+* Format below:
+* streetcar ID: starting stop ID
+*
+*
+car1-01:101
+car1-02:107
+car1-03:113
+car1-04:119
+car1-05:125
+car2-01:230
+car2-02:234
+car2-03:238
+car2-04:242
+car2-05:246
+car2-06:250
